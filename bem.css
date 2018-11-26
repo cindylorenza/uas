@@ -1,0 +1,73 @@
+body{
+	background-image: url(capture-20181010-082023.png);
+
+}
+header{
+	background-height: 150vh;
+	height:500px;
+	background-size:cover;
+	background-position: center;
+}
+.h1{
+  	position: relative;
+    left: 400px;
+    top: 5px;
+}
+.gambar1{
+	position: relative;
+	height: 20%;
+	left: 600px;
+    top: 0px;
+}
+.visi{
+position: relative;
+left: 200px;
+top: -20px;
+}
+.visi1{
+	position: relative;
+	width: 40%;
+	left: 30px;
+	top: -35px;
+}
+.misi{
+	position: relative;
+	left: 200px;
+	top: -45px;
+}
+.misi1{
+	color: white;
+	position: relative;
+	width: 40%;
+	top: -55px;
+}
+.gambar2{
+	position: relative;
+	height: 70%;
+	left: 615px; 
+	top:-415px;
+}
+.kembali{ 
+	color:black;
+	font-weight: bold;
+    margin: 10px;
+	width: 80px;
+	background-color: white;
+	opacity: 0.7;
+	margin-top: -970px;
+	text-align:  center; 
+	box-sizing: border-box;
+	padding: 10px 10px;
+	padding-right:  -5px;
+	padding-bottom: 5px;
+	border-radius: 0px;
+	margin-left: 0px;
+}
+@media screen and (max-width: 800px){
+	#menu li{
+		float: none;
+	}
+	div{
+		text-align: center;
+	}
+}

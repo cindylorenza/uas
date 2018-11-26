@@ -1,0 +1,152 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+	background-image: url(capture-20181010-082023.png);
+}
+
+header{
+	background-color: grey;
+	background-height: 150vh;
+	height:130px;
+	background-size:cover;
+	background-position: center;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: -40px;
+	margin-left: 370px;
+	position: absolute;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a {
+	text-decoration: none;
+	color:white;
+	padding: 5px 30px;
+	border: 0px ;
+	margin-left: 20%;
+}
+ ul li a:hover{
+ 	background-color: black;
+ 	color: white;
+ }
+
+ ul li.active a{
+ 	background-color: black;
+ 	color:white;
+ }
+
+ .logo img{
+ 	float: left;
+ 	width: 100px;
+ 	height: auto;
+ 	margin-top: 12px;
+ 	position: absolute;
+ }
+div.h1{
+  	position: relative;
+    left: 105px;
+    top: 30px;
+}
+div.h2{
+  	position: relative;
+    left: 105px;
+    top: 15px;
+}
+div.h3{
+  	position: relative;
+    left: 550px;
+    top: -45px;
+}
+.nama{
+	position: relative;
+	top: 60px;
+	color: white;
+	left: 20px;
+}
+.nama2{
+	position: relative;
+	top: 230px;
+	color: white;
+	left: 210px;
+}
+.nama3{
+	position: relative;
+	top: -30px;
+	color: white;
+	left: 320px;
+}
+.nama4{
+	position: relative;
+	top: 170px;
+	color: white;
+	left: 190px;
+}
+.nama5{
+	position: relative;
+	top: -90px;
+	color: white;
+	left: 450px;
+}
+.nama6{
+	position: relative;
+	top:80px;
+	color: white;
+	left: 610px;
+}
+.nama7{
+	position: relative;
+	top:-185px;
+	color: white;
+	left: 750px;
+}
+
+.gambar1{
+height: 40%;
+position: absolute;
+margin-left: -270px;
+margin-top: -200px;
+
+}
+.gambar2{
+height: 40%;
+position: absolute;
+margin-top: 30px;
+margin-left: -130px;	
+}
+.gambar3{
+height: 40%;
+position: absolute;
+margin-left: 30px;	
+margin-top: -190px;
+}
+.gambar4{
+height: 40%;
+position: absolute;
+margin-top: 30px;
+margin-left: 225px;	
+}
+.gambar5{
+height: 40%;
+position: absolute;
+margin-left: 440px;	
+margin-top: -185px;
+}
+.gambar6{
+height: 40%;
+position: absolute;
+margin-top: 40px;
+margin-left: 610px;	
+}
+.gambar7{
+height: 40%;
+position: absolute;
+margin-left: 770px;
+margin-top: -180px;	
+}

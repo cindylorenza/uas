@@ -1,0 +1,91 @@
+body{
+	background-image: url(capture-20181010-082023.png);
+}
+header{
+	background-height: 150vh;
+	height:500px;
+	background-size:cover;
+	background-position: center;
+}
+.nama{
+	position: relative;
+	top: 30px;
+	color: white;
+	left: 220px;
+}
+.nama1{
+	position: relative;
+	top: -385px;
+	color: white;
+	left: 940px;
+}
+
+
+.h1{
+  	position: relative;
+    left: 500px;
+    top: 5px;
+}
+.gambar1{
+	position: relative;
+	height: 20%;
+	left: 220px;
+    top: 40px;
+}
+.visi{
+position: relative;
+left: 250px;
+top: 50px;
+}
+.visi1{
+	position: relative;
+	width: 40%;
+	left: 30px;
+	top: 50px;
+}
+.misi{
+	position: relative;
+	left: 250px;
+	top: 60px;
+}
+.misi1{
+	color: white;
+	position: relative;
+	width: 40%;
+	left: 30px;
+	top: 60px;
+}
+.gambar2{
+	position: relative;
+	height: 20%;
+	left: 980px;
+    top: -375px;
+}
+.profil{
+	position: relative;
+	top: -365px;
+	left: 1000px;
+}
+.profil1{
+	position: relative;
+	width: 40%;
+	top: -350px;
+	left: 770px;
+}
+.kembali{ 
+	color:black;
+	font-weight: bold;
+    margin: 10px;
+	width: 80px;
+	background-color: white;
+	opacity: 0.7;
+	margin-top: -855px;
+	text-align:  center; 
+	box-sizing: border-box;
+	padding: 10px 10px;
+	padding-right:  -5px;
+	padding-bottom: 5px;
+	border-radius: 0px;
+	margin-left: 0px;
+}
+
